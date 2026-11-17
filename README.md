@@ -133,13 +133,13 @@ int main(void)
 
 ## Output screen shots of Serial port utility   :
 
- <img width="826" height="1072" alt="image" src="https://github.com/user-attachments/assets/e201ac2e-a93b-45b2-8caa-70065c122b88" />
-
- <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/6998ffa7-6a56-4102-8c1e-f86eb2a7674b" />
+ <img width="1179" height="759" alt="image" src="https://github.com/user-attachments/assets/f29f202e-c27f-4a17-9f3c-190a61a553c2" />
 
 
 
-<img width="828" height="420" alt="image" src="https://github.com/user-attachments/assets/98ebeb8a-a7d0-4dff-b76a-c2a927dfd26a" />
+
+<img width="517" height="272" alt="image" src="https://github.com/user-attachments/assets/ad819115-87b7-40f3-8816-f106806ec65d" />
+
 
  
  
