@@ -122,7 +122,7 @@ int main(void)
 
 
    
-	  printf("Saveetha Engineering College");
+	  printf("balaji SK");
 	  HAL_Delay(500);
     
   }
